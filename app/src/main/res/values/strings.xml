@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidProjekt</string>
+    <string name="counter">Calorie Counter</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="start">Start</string>
+    <string name="search">Search</string>
+    <string name="total">Total calories:</string>
+    <string name="amount">Amount</string>
+    <string name="sugar">Sugar(g):</string>
+    <string name="fiber">Fiber(g):</string>
+    <string name="size">Serving size(g):</string>
+    <string name="sodium">Sodium(mg):</string>
+    <string name="potassium">Potassium(mg):</string>
+    <string name="fat">Fat(g):</string>
+    <string name="calories">Calories:</string>
+    <string name="protein">Protein(g):</string>
+    <string name="carbohydrates">Carbohydrates(g):</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="calculate">Calculate</string>
+    <string name="add">Add food</string>
+    <string name="reset">Reset</string>
+    <string name="title_activity_start">StartActivity</string>
+
+</resources>
